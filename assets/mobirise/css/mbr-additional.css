@@ -2659,6 +2659,56 @@ a {
 .cid-v69Lmifnuc .mbr-section-title {
   color: #fafafa;
 }
+.cid-vqBY2h6dl1 {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #353535;
+}
+.cid-vqBY2h6dl1 .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-vqBY2h6dl1 .mbr-section-title,
+.cid-vqBY2h6dl1 .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-vqBY2h6dl1 .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-vqBY2h6dl1 .card-wrapper {
+  border-radius: 4px;
+  background-color: #fafafa;
+  background-color: transparent;
+}
+.cid-vqBY2h6dl1 .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-vqBY2h6dl1 .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-vqBY2h6dl1 .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-vqBY2h6dl1 .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-vqBY2h6dl1 .card-title {
+  color: #ffffff;
+}
+.cid-vqBY2h6dl1 .mbr-text {
+  color: #fafafa;
+}
+.cid-vqBY2h6dl1 .cost {
+  color: #ffffff;
+}
 .cid-vqBY7kDOYU {
   padding-top: 0rem;
   padding-bottom: 1rem;
@@ -2757,56 +2807,6 @@ a {
   color: #fafafa;
 }
 .cid-vqBY65NFTW .cost {
-  color: #ffffff;
-}
-.cid-vqBY2h6dl1 {
-  padding-top: 0rem;
-  padding-bottom: 1rem;
-  background-color: #353535;
-}
-.cid-vqBY2h6dl1 .top-line {
-  display: flex;
-  justify-content: space-between;
-}
-.cid-vqBY2h6dl1 .mbr-section-title,
-.cid-vqBY2h6dl1 .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-vqBY2h6dl1 .card:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-.cid-vqBY2h6dl1 .card-wrapper {
-  border-radius: 4px;
-  background-color: #fafafa;
-  background-color: transparent;
-}
-.cid-vqBY2h6dl1 .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-@media (max-width: 767px) {
-  .cid-vqBY2h6dl1 .card-box {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-vqBY2h6dl1 .card-box {
-    padding-right: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-vqBY2h6dl1 .card-box {
-    padding-left: 2rem;
-    padding-right: 4rem;
-  }
-}
-.cid-vqBY2h6dl1 .card-title {
-  color: #ffffff;
-}
-.cid-vqBY2h6dl1 .mbr-text {
-  color: #fafafa;
-}
-.cid-vqBY2h6dl1 .cost {
   color: #ffffff;
 }
 .cid-vqBY0AGiqr {
